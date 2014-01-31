@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Freckle+Face);
+
 * {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -6,6 +8,8 @@
 body {
 	background: #000 url('../images/background.jpg');
 	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-family: Copperplate, "Copperplate Gothic Light",'Freckle Face', cursive;
+
 	color: #333;
 }
 
@@ -49,7 +53,6 @@ footer{
 	clear: both;
 	width: 100%;
 }
-
 
 
 
